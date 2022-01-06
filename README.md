@@ -1,6 +1,6 @@
 ### Hey there, Name's Lucas - aka [KindiLuv]()
 
-## 🖥️ IT Student, _MagicTG_ Fan and _Dungeons and Dragon_ enthusiast 
+## 🖥️ IT Student, _MagicTG_ fsan and _Dungeons and Dragon_ enthusiast 
 
 - 🔭 Currently working on my self hosted folio
 - 🌱 Currently learning **Remix** and **TailwindCSS** as well as perpetually learning **Unity**
@@ -8,6 +8,8 @@
 - 📫 Looking for a new apprenticeship in 3D or Game Development
 
 ### Contact me
+[<img align="left" alt="kindiluv.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="KindiLuv | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Stack
 
