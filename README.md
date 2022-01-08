@@ -6,10 +6,13 @@
 - 🌱 Currently learning **Remix** and **TailwindCSS** as well as perpetually learning **Unity**
 - 📠 Working at [Okayo](https://www.okayo.fr) as FullStack Developer
 - 📫 Looking for a new apprenticeship in 3D or Game Development
+- 👯 I’m looking to collaborate on small game jams
+- ⚡ Fun fact: I LOVE frogs
 
 ### Contact me
 [<img align="left" alt="kindiluv.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="KindiLuv | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="KindiLuv#1662 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][linkedin]
 <br/>
 ### Stack
 
