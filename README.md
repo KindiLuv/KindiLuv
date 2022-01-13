@@ -15,8 +15,7 @@
 [<img align="left" alt="KindiLuv#1662 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][linkedin]
 <br/>
 ### Stack
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"/>
+<i class="devicon-android-plain colored"></i>
 
 
 [website]: https://kindiluv.dev
