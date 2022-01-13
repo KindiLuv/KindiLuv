@@ -1,4 +1,4 @@
-### Hey there, Name's Lucas - aka [KindiLuv]()
+<img src="header.png">
 
 ## 🖥️ IT Student, _MagicTG_ fsan and _Dungeons and Dragon_ enthusiast 
 
@@ -15,7 +15,7 @@
 [<img align="left" alt="KindiLuv#1662 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][linkedin]
 <br/>
 ### Stack
-<i class="devicon-android-plain colored"></i>
+<i src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"></i>
 
 
 [website]: https://kindiluv.dev
