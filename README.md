@@ -16,6 +16,8 @@
 <br/>
 ### Stack
 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"/>
+
 
 [website]: https://kindiluv.dev
 [linkedin]: https://www.linkedin.com/in/lucas-servain-2418111bb/
