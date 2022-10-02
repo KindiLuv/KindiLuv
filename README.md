@@ -1,11 +1,10 @@
 <img src="header.png">
 
-## 🖥️ IT Student, _MagicTG_ fan and _Dungeons and Dragon_ enthusiast
+## 🖥️ IT Student, _MagicTG_ fan and Dual fighter enthusiast
 
 - 🔭 Currently working on game projects
-- 🌱 Currently learning **OpenGL** as well as perpetually learning **Unity**
-- 📠 Working at [Okayo](https://www.okayo.fr) as FullStack Developer
-- 📫 Looking for a new apprenticeship in 3D or Game Development
+- 🌱 Currently learning **Rust** as well as perpetually learning **Unity**
+- 📠 Working at [Dassault Aviation](https://www.dassault-aviation.com/en/) as Apprentice Engineer for Immersive 3D developpment
 - 👯 I’m looking to collaborate on small game jams
 - ⚡ Fun fact: I LOVE frogs
 
