@@ -1,12 +1,12 @@
 <img src="header.png">
 
-## 🖥️ IT Student, _MagicTG_ fan and Dual fighter enthusiast
+## 🖥️ IT Student, ttrpg addict, _MagicTG_ fan and Dual fighter enthusiast
 
-- 🔭 Currently working on game projects
-- 🌱 Currently learning **Rust** as well as perpetually learning **Unity**
+- 🔭 Currently working on a tactical rpg tool to use in tabletop roleplaying games. ~~And some uni projects of many aspects.~~
+- 🌱 Currently learning **Unreal Engine**
 - 📠 Working at [Dassault Aviation](https://www.dassault-aviation.com/en/) as Apprentice Engineer for Immersive 3D developpment
-- 👯 I’m looking to collaborate on small game jams
-- ⚡ Fun fact: I LOVE frogs
+- 👯 I’m looking to collaborate on small game jams or ttrpg projects
+- ⚡ Fun fact: I LOVE frogs and the clicking of dice
 
 ### Contact me
 [<img align="left" alt="KindiLuv | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
