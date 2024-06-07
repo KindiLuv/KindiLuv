@@ -1,5 +1,3 @@
-<img src="header.png">
-
 ## 🖥️ IT Student, ttrpg addict, _MagicTG_ fan and Dual fighter enthusiast
 
 - 🔭 Currently working on a tactical rpg tool to use in tabletop roleplaying games. ~~And some uni projects of many aspects.~~
